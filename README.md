@@ -5,8 +5,9 @@ Welcome to the Bluetooth AirPods product landing page, a responsive web page des
 Experience true freedom with our Bluetooth AirPods. These cutting-edge wireless earbuds redefine the way you listen to music, make calls, and interact with your devices. With seamless connectivity, exceptional sound quality, and intuitive controls, our AirPods are designed to elevate your audio experience.
 
 ## Screenshots
+![Screenshot (107)](https://github.com/SnehithaPenchili/Product-landing-page/assets/172914956/5245c541-ab22-4851-a2cd-edf102c60f69)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]
 
 ## Project Structure
 'index.html': Main HTML file containing the structure of the landing page.
