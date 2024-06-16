@@ -9,10 +9,10 @@ Experience true freedom with our Bluetooth AirPods. These cutting-edge wireless 
 ![Screenshot (108)](https://github.com/SnehithaPenchili/Product-landing-page/assets/172914956/29e03102-7669-457e-831d-91be71a1ee0f)
 
 ## Project Structure
--'index.html': Main HTML file containing the structure of the landing page.
--'styles.css': CSS file for styling the landing page.
++ 'index.html': Main HTML file containing the structure of the landing page.
++'styles.css': CSS file for styling the landing page.
 
 ## References
--Images sourced from Wired and Freepik.
++ Images sourced from Wired and Freepik.
 Inspiration and design ideas from Apple's AirPods product page.
 
