@@ -10,9 +10,9 @@ Experience true freedom with our Bluetooth AirPods. These cutting-edge wireless 
 
 ## Project Structure
 + 'index.html': Main HTML file containing the structure of the landing page.
-+'styles.css': CSS file for styling the landing page.
++ 'styles.css': CSS file for styling the landing page.
 
 ## References
 + Images sourced from Wired and Freepik.
-Inspiration and design ideas from Apple's AirPods product page.
++ Inspiration and design ideas from Apple's AirPods product page.
 
