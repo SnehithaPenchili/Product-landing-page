@@ -6,8 +6,7 @@ Experience true freedom with our Bluetooth AirPods. These cutting-edge wireless 
 
 ## Screenshots
 ![Screenshot (107)](https://github.com/SnehithaPenchili/Product-landing-page/assets/172914956/5245c541-ab22-4851-a2cd-edf102c60f69)
-
-![App Screenshot]
+![Screenshot (108)](https://github.com/SnehithaPenchili/Product-landing-page/assets/172914956/29e03102-7669-457e-831d-91be71a1ee0f)
 
 ## Project Structure
 'index.html': Main HTML file containing the structure of the landing page.
